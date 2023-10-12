@@ -20,7 +20,7 @@
 
 #### Заголовок четвертого рівня
 
-Можливо, вам буде цікаво вставити посилання. [Посилання на Google](https://www.google.com/)
+[Посилання на сайт коледжу](https://itcollege.lviv.ua)
 
 ##### Заголовок п'ятого рівня
 
@@ -32,7 +32,7 @@ def hello_world():
 ```
 Або вбудований код: `print("Hello, Markdown!")`
 
-![Красивий пейзаж](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fuk-ua%2Fsearch%2F%25D1%2584%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25B5%2520%25D0%25B7%25D0%25BE%25D0%25B1%25D1%2580%25D0%25B0%25D0%25B6%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F%2F&psig=AOvVaw00vomFd7OwQeiqfcmzs0Qi&ust=1697224001250000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCpwqCa8YEDFQAAAAAdAAAAABAE)
+![Логотип](https://itcollege.lviv.ua/wp-content/uploads/2022/01/logo-lit.jpg)
 
 Щодо запитів, ось приклад:
 
