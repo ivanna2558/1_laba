@@ -15,7 +15,8 @@ print(f"{name} start programming at {datetime.now()}. {location} is the best cit
 ```
 
 3.Програма вивела:
-![alt text](https://github.com/ivanna2558/1_laba/raw/main/pictures/photo_2023-11-17_10-24-51.jpg "Результат")
+
+![alt text](https://github.com/ivanna2558/1_laba/raw/main/pictures/Результат.png "Результат")
 
 - Вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
 > якщо графічних файлів багато то краще помістити їх у окрему папку, наприклад у мене це папка `pictures`. Уважно дивіться коли вставляєте URL - файл має бути представленим як `raw`. 
