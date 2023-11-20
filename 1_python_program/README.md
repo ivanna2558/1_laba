@@ -18,10 +18,10 @@ print(f"{name} start programming at {datetime.now()}. {location} is the best cit
 
 ![alt text](https://github.com/ivanna2558/1_laba/raw/main/pictures/Результат.png "Результат")
 
-- Вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
-> якщо графічних файлів багато то краще помістити їх у окрему папку, наприклад у мене це папка `pictures`. Уважно дивіться коли вставляєте URL - файл має бути представленим як `raw`. 
+4. Створила новий файл `my_first_app.ipynb` та прослідкувала як змінився вигляд Notebook. Зробила опис у вигляді заголовку.
 
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+![alt text](https://github.com/ivanna2558/1_laba/raw/main/pictures/code2.png "Результат")
+
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
